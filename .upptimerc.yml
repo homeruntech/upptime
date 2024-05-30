@@ -1,36 +1,115 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: homeruntech # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Armut TR ~ Auth
+    icon: https://cdn.armut.com/images/themes/armut/favicons/32x32.ico
+    url: https://id.armut.com/health_check
+  - name: Armut TR ~ Homepage
+    icon: https://cdn.armut.com/images/themes/armut/favicons/32x32.ico
+    url: https://armut.com
+  - name: HomeRun CZ ~ Auth
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://id.homerun.co.cz/health_check
+  - name: HomeRun CZ ~ Homepage
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://homerun.co.cz
+  - name: HomeRun EG ~ Auth
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://id.homerun.com.eg/health_check
+  - name: HomeRun EG ~ Homepage
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://homerun.com.eg
+  - name: HomeRun HU ~ Auth
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://id.homerun.hu/health_check
+  - name: HomeRun HU ~ Homepage
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://homerun.hu
+  - name: HomeRun PL ~ Auth
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://id.homerun.pl/health_check
+  - name: HomeRun PL ~ Homepage
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://homerun.pl
+  - name: HomeRun RO ~ Auth
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://id.homerun.ro/health_check
+  - name: HomeRun RO ~ Homepage
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://homerun.ro
+  - name: HomeRun SA ~ Auth
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://id.homerun.com.sa/health_check
+  - name: HomeRun SA ~ Homepage
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://homerun.com.sa
+  - name: HomeRun UK ~ Auth
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://id.homerun.co.uk/health_check
+  - name: HomeRun UK ~ Homepage
+    icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
+    url: https://homerun.co.uk
+  - name: ProntoPro AT ~ Auth
+    icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
+    url: https://id.prontopro.at/health_check
+  - name: ProntoPro AT ~ Homepage
+    icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
+    url: https://prontopro.at
+  - name: ProntoPro CH ~ Auth
+    icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
+    url: https://id.prontopro.ch/health_check
+  - name: ProntoPro CH ~ Homepage
+    icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
+    url: https://prontopro.ch
+  - name: ProntoPro DE ~ Auth
+    icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
+    url: https://id.prontopro.de/health_check
+  - name: ProntoPro DE ~ Homepage
+    icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
+    url: https://prontopro.de
+  - name: ProntoPro ES ~ Auth
+    icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
+    url: https://id.prontopro.es/health_check
+  - name: ProntoPro ES ~ Homepage
+    icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
+    url: https://prontopro.es
+  - name: ProntoPro FR ~ Auth
+    icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
+    url: https://id.prontopro.fr/health_check
+  - name: ProntoPro FR ~ Homepage
+    icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
+    url: https://prontopro.fr
+  - name: ProntoPro IT ~ Auth
+    icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
+    url: https://id.prontopro.it/health_check
+  - name: ProntoPro IT ~ Homepage
+    icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
+    url: https://prontopro.it
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.homeruntech.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://status.homeruntech.io/images/homeruntech-logo-40x40@3x.png
+  name: Homeruntech
+  introTitle: "**Homeruntech** is the home of **Armut**, **Homerun** and **ProntoPro** brands."
+  introMessage: "Check the status of our systems here."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  themeUrl: https://status.homeruntech.io/styles/homerun.css
+  customHeadHtml: |
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+  metaTags:
+    - name: "robots"
+      content: "noindex"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
