@@ -23,10 +23,10 @@ sites:
     url: https://homerun.com.eg
   - name: HomeRun HU ~ Auth
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
-    url: https://id.homerun.hu/health_check
+    url: https://id.homerun.co.hu/health_check
   - name: HomeRun HU ~ Homepage
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
-    url: https://homerun.hu
+    url: https://homerun.co.hu
   - name: HomeRun PL ~ Auth
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
     url: https://id.homerun.pl/health_check
