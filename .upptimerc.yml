@@ -87,6 +87,9 @@ sites:
   - name: ProntoPro IT ~ Homepage
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
     url: https://prontopro.it
+  - name: Snowplow collector (Global)
+    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
+    url: https://collector-snowplow.armut.com/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
