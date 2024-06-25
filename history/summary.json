@@ -508,5 +508,23 @@
     "timeMonth": 971,
     "timeYear": 971,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Snowplow collector (Global)",
+    "url": "https://collector-snowplow.armut.com/health",
+    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
+    "slug": "snowplow-collector-global",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 654,
+    "timeDay": 654,
+    "timeWeek": 654,
+    "timeMonth": 654,
+    "timeYear": 654,
+    "dailyMinutesDown": {}
   }
 ]
