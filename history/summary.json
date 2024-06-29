@@ -40,9 +40,9 @@
     "url": "https://id.homerun.co.cz/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-cz-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -52,6 +52,7 @@
     "timeMonth": 625,
     "timeYear": 625,
     "dailyMinutesDown": {
+      "2024-06-29": 0,
       "2024-06-12": 8
     }
   },
