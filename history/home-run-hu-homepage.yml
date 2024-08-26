@@ -1,7 +1,7 @@
 url: https://homerun.co.hu
-status: up
-code: 200
-responseTime: 721
-lastUpdated: 2024-08-25T23:06:00.417Z
+status: down
+code: 503
+responseTime: 469
+lastUpdated: 2024-08-26T21:03:31.847Z
 startTime: 2024-05-30T13:33:08.738Z
 generator: Upptime <https://github.com/upptime/upptime>
