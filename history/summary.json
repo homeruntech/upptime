@@ -62,10 +62,10 @@
     "url": "https://id.homerun.co.cz/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-cz-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "91.64%",
-    "uptimeWeek": "98.81%",
+    "uptimeDay": "91.53%",
+    "uptimeWeek": "98.79%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.90%",
     "time": 819,
@@ -74,7 +74,7 @@
     "timeMonth": 916,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2024-09-16": 120,
+      "2024-09-16": 122,
       "2024-08-26": 18,
       "2024-06-29": 10,
       "2024-06-12": 8
@@ -85,10 +85,10 @@
     "url": "https://homerun.co.cz",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-cz-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "92.81%",
-    "uptimeWeek": "98.97%",
+    "uptimeDay": "92.73%",
+    "uptimeWeek": "98.96%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.90%",
     "time": 1742,
@@ -97,7 +97,7 @@
     "timeMonth": 2164,
     "timeYear": 1742,
     "dailyMinutesDown": {
-      "2024-09-16": 104,
+      "2024-09-16": 105,
       "2024-09-02": 28,
       "2024-09-01": 10,
       "2024-08-26": 18
@@ -108,10 +108,10 @@
     "url": "https://c.homerun.co.cz/com.homeruntechnologies/t",
     "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
     "slug": "home-run-cz-snowplow-collector",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "93.46%",
-    "uptimeWeek": "99.07%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "99.06%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.81%",
     "time": 944,
@@ -120,7 +120,7 @@
     "timeMonth": 973,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2024-09-16": 94
+      "2024-09-16": 95
     }
   },
   {
