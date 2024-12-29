@@ -1,7 +1,7 @@
 url: https://collector-snowplow.armut.com/health
 status: up
 code: 200
-responseTime: 677
-lastUpdated: 2024-12-28T23:06:01.833Z
+responseTime: 550
+lastUpdated: 2024-12-29T23:05:58.599Z
 startTime: 2024-06-25T10:01:18.469Z
 generator: Upptime <https://github.com/upptime/upptime>
