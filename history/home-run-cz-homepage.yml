@@ -1,7 +1,7 @@
 url: https://homerun.co.cz
-status: up
-code: 200
-responseTime: 4100
-lastUpdated: 2025-04-06T23:05:33.570Z
+status: down
+code: 502
+responseTime: 1693
+lastUpdated: 2025-04-07T14:51:08.836Z
 startTime: 2024-05-30T13:32:46.583Z
 generator: Upptime <https://github.com/upptime/upptime>
