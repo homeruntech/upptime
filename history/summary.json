@@ -41,24 +41,6 @@
     }
   },
   {
-    "name": "Armut TR ~ Snowplow collector",
-    "url": "https://c.armut.com/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "armut-tr-snowplow-collector",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 669,
-    "timeWeek": 596,
-    "timeMonth": 562,
-    "timeYear": 558,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "HomeRun CZ ~ Auth",
     "url": "https://id.homerun.co.cz/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
@@ -148,42 +130,6 @@
     }
   },
   {
-    "name": "HomeRun CZ ~ Snowplow collector",
-    "url": "https://c.homerun.co.cz/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "home-run-cz-snowplow-collector",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.78%",
-    "time": 835,
-    "timeDay": 829,
-    "timeWeek": 772,
-    "timeMonth": 751,
-    "timeYear": 835,
-    "dailyMinutesDown": {
-      "2025-06-17": 9,
-      "2025-06-16": 12,
-      "2025-06-13": 11,
-      "2025-05-19": 19,
-      "2025-05-17": 6,
-      "2025-04-28": 8,
-      "2025-04-06": 6,
-      "2025-04-02": 91,
-      "2025-04-01": 102,
-      "2025-03-31": 171,
-      "2025-03-28": 20,
-      "2025-03-25": 10,
-      "2025-02-28": 190,
-      "2025-02-23": 161,
-      "2024-10-10": 11,
-      "2024-09-17": 77,
-      "2024-09-16": 108
-    }
-  },
-  {
     "name": "HomeRun EG ~ Auth",
     "url": "https://id.homerun.com.eg/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
@@ -216,30 +162,10 @@
     "timeDay": 161,
     "timeWeek": 216,
     "timeMonth": 211,
-    "timeYear": 685,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2024-09-02": 26,
       "2024-08-26": 18
-    }
-  },
-  {
-    "name": "HomeRun EG ~ Snowplow collector",
-    "url": "https://c.homerun.com.eg/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "home-run-eg-snowplow-collector",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 649,
-    "timeWeek": 750,
-    "timeMonth": 686,
-    "timeYear": 614,
-    "dailyMinutesDown": {
-      "2025-04-28": 8
     }
   },
   {
@@ -283,26 +209,6 @@
     }
   },
   {
-    "name": "HomeRun HU ~ Snowplow collector",
-    "url": "https://c.homerun.co.hu/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "home-run-hu-snowplow-collector",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 778,
-    "timeWeek": 675,
-    "timeMonth": 639,
-    "timeYear": 636,
-    "dailyMinutesDown": {
-      "2025-04-28": 8
-    }
-  },
-  {
     "name": "HomeRun PL ~ Auth",
     "url": "https://id.homerun.pl/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
@@ -340,26 +246,6 @@
       "2025-04-07": 6,
       "2024-09-02": 21,
       "2024-08-26": 18
-    }
-  },
-  {
-    "name": "HomeRun PL ~ Snowplow collector",
-    "url": "https://c.homerun.pl/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "home-run-pl-snowplow-collector",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 659,
-    "timeWeek": 607,
-    "timeMonth": 577,
-    "timeYear": 576,
-    "dailyMinutesDown": {
-      "2025-04-28": 8
     }
   },
   {
@@ -402,26 +288,6 @@
     }
   },
   {
-    "name": "HomeRun RO ~ Snowplow collector",
-    "url": "https://c.homerun.ro/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "home-run-ro-snowplow-collector",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 641,
-    "timeWeek": 669,
-    "timeMonth": 677,
-    "timeYear": 642,
-    "dailyMinutesDown": {
-      "2025-04-28": 8
-    }
-  },
-  {
     "name": "HomeRun SA ~ Auth",
     "url": "https://id.homerun.com.sa/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
@@ -458,26 +324,6 @@
     "dailyMinutesDown": {
       "2024-09-02": 20,
       "2024-08-26": 18
-    }
-  },
-  {
-    "name": "HomeRun SA ~ Snowplow collector",
-    "url": "https://c.homerun.com.sa/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "home-run-sa-snowplow-collector",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 660,
-    "timeWeek": 715,
-    "timeMonth": 670,
-    "timeYear": 739,
-    "dailyMinutesDown": {
-      "2025-04-28": 7
     }
   },
   {
@@ -522,26 +368,6 @@
     }
   },
   {
-    "name": "HomeRun UK ~ Snowplow collector",
-    "url": "https://c.homerun.co.uk/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "home-run-uk-snowplow-collector",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 637,
-    "timeWeek": 588,
-    "timeMonth": 590,
-    "timeYear": 614,
-    "dailyMinutesDown": {
-      "2025-04-28": 7
-    }
-  },
-  {
     "name": "ProntoPro AT ~ Auth",
     "url": "https://id.prontopro.at/health_check",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
@@ -579,26 +405,6 @@
       "2024-09-02": 18,
       "2024-09-01": 9,
       "2024-08-26": 18
-    }
-  },
-  {
-    "name": "ProntoPro AT ~ Snowplow collector",
-    "url": "https://c.prontopro.at/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "pronto-pro-at-snowplow-collector",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 633,
-    "timeDay": 656,
-    "timeWeek": 646,
-    "timeMonth": 595,
-    "timeYear": 633,
-    "dailyMinutesDown": {
-      "2025-04-28": 7
     }
   },
   {
@@ -646,28 +452,6 @@
     }
   },
   {
-    "name": "ProntoPro CH ~ Snowplow collector",
-    "url": "https://c.prontopro.ch/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "pronto-pro-ch-snowplow-collector",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
-    "time": 575,
-    "timeDay": 686,
-    "timeWeek": 644,
-    "timeMonth": 595,
-    "timeYear": 575,
-    "dailyMinutesDown": {
-      "2025-04-28": 7,
-      "2024-09-20": 495,
-      "2024-09-19": 762
-    }
-  },
-  {
     "name": "ProntoPro DE ~ Auth",
     "url": "https://id.prontopro.de/health_check",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
@@ -708,26 +492,6 @@
     }
   },
   {
-    "name": "ProntoPro DE ~ Snowplow collector",
-    "url": "https://c.prontopro.de/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "pronto-pro-de-snowplow-collector",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 664,
-    "timeWeek": 650,
-    "timeMonth": 628,
-    "timeYear": 618,
-    "dailyMinutesDown": {
-      "2025-04-28": 7
-    }
-  },
-  {
     "name": "ProntoPro ES ~ Auth",
     "url": "https://id.prontopro.es/health_check",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
@@ -764,26 +528,6 @@
     "dailyMinutesDown": {
       "2024-09-02": 15,
       "2024-08-26": 18
-    }
-  },
-  {
-    "name": "ProntoPro ES ~ Snowplow collector",
-    "url": "https://c.prontopro.es/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "pronto-pro-es-snowplow-collector",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 660,
-    "timeWeek": 563,
-    "timeMonth": 540,
-    "timeYear": 579,
-    "dailyMinutesDown": {
-      "2025-04-28": 7
     }
   },
   {
@@ -827,26 +571,6 @@
     }
   },
   {
-    "name": "ProntoPro FR ~ Snowplow collector",
-    "url": "https://c.prontopro.fr/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "pronto-pro-fr-snowplow-collector",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 782,
-    "timeWeek": 622,
-    "timeMonth": 573,
-    "timeYear": 575,
-    "dailyMinutesDown": {
-      "2025-04-28": 7
-    }
-  },
-  {
     "name": "ProntoPro IT ~ Auth",
     "url": "https://id.prontopro.it/health_check",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
@@ -885,24 +609,6 @@
       "2024-08-26": 18,
       "2024-08-22": 5
     }
-  },
-  {
-    "name": "ProntoPro IT ~ Snowplow collector",
-    "url": "https://c.prontopro.it/com.homeruntechnologies/t",
-    "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
-    "slug": "pronto-pro-it-snowplow-collector",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 793,
-    "timeWeek": 634,
-    "timeMonth": 624,
-    "timeYear": 626,
-    "dailyMinutesDown": {}
   },
   {
     "name": "Snowplow collector (Global)",
