@@ -9,9 +9,6 @@ sites:
   - name: Armut TR ~ Homepage
     icon: https://cdn.armut.com/images/themes/armut/favicons/32x32.ico
     url: https://armut.com
-  - name: Armut TR ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.armut.com/com.homeruntechnologies/t
 
   - name: HomeRun CZ ~ Auth
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
@@ -19,9 +16,6 @@ sites:
   - name: HomeRun CZ ~ Homepage
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
     url: https://homerun.co.cz
-  - name: HomeRun CZ ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.homerun.co.cz/com.homeruntechnologies/t
 
   - name: HomeRun EG ~ Auth
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
@@ -29,9 +23,6 @@ sites:
   - name: HomeRun EG ~ Homepage
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
     url: https://homerun.com.eg
-  - name: HomeRun EG ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.homerun.com.eg/com.homeruntechnologies/t
 
   - name: HomeRun HU ~ Auth
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
@@ -39,9 +30,6 @@ sites:
   - name: HomeRun HU ~ Homepage
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
     url: https://homerun.co.hu
-  - name: HomeRun HU ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.homerun.co.hu/com.homeruntechnologies/t
 
   - name: HomeRun PL ~ Auth
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
@@ -49,9 +37,6 @@ sites:
   - name: HomeRun PL ~ Homepage
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
     url: https://homerun.pl
-  - name: HomeRun PL ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.homerun.pl/com.homeruntechnologies/t
 
   - name: HomeRun RO ~ Auth
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
@@ -59,9 +44,6 @@ sites:
   - name: HomeRun RO ~ Homepage
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
     url: https://homerun.ro
-  - name: HomeRun RO ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.homerun.ro/com.homeruntechnologies/t
 
   - name: HomeRun SA ~ Auth
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
@@ -69,9 +51,6 @@ sites:
   - name: HomeRun SA ~ Homepage
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
     url: https://homerun.com.sa
-  - name: HomeRun SA ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.homerun.com.sa/com.homeruntechnologies/t
 
   - name: HomeRun UK ~ Auth
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
@@ -79,9 +58,6 @@ sites:
   - name: HomeRun UK ~ Homepage
     icon: https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico
     url: https://homerun.co.uk
-  - name: HomeRun UK ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.homerun.co.uk/com.homeruntechnologies/t
 
   - name: ProntoPro AT ~ Auth
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
@@ -89,9 +65,6 @@ sites:
   - name: ProntoPro AT ~ Homepage
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
     url: https://prontopro.at
-  - name: ProntoPro AT ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.prontopro.at/com.homeruntechnologies/t
 
   - name: ProntoPro CH ~ Auth
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
@@ -99,9 +72,6 @@ sites:
   - name: ProntoPro CH ~ Homepage
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
     url: https://prontopro.ch
-  - name: ProntoPro CH ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.prontopro.ch/com.homeruntechnologies/t
 
   - name: ProntoPro DE ~ Auth
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
@@ -109,9 +79,6 @@ sites:
   - name: ProntoPro DE ~ Homepage
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
     url: https://prontopro.de
-  - name: ProntoPro DE ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.prontopro.de/com.homeruntechnologies/t
 
   - name: ProntoPro ES ~ Auth
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
@@ -119,9 +86,6 @@ sites:
   - name: ProntoPro ES ~ Homepage
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
     url: https://prontopro.es
-  - name: ProntoPro ES ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.prontopro.es/com.homeruntechnologies/t
 
   - name: ProntoPro FR ~ Auth
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
@@ -129,9 +93,6 @@ sites:
   - name: ProntoPro FR ~ Homepage
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
     url: https://prontopro.fr
-  - name: ProntoPro FR ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.prontopro.fr/com.homeruntechnologies/t
 
   - name: ProntoPro IT ~ Auth
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
@@ -139,9 +100,6 @@ sites:
   - name: ProntoPro IT ~ Homepage
     icon: https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico
     url: https://prontopro.it
-  - name: ProntoPro IT ~ Snowplow collector
-    icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
-    url: https://c.prontopro.it/com.homeruntechnologies/t
 
   - name: Snowplow collector (Global)
     icon: https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg
@@ -150,7 +108,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.homeruntech.io
+  # cname: status.homeruntech.io
   # baseUrl: /your-repo-name
   logoUrl: https://status.homeruntech.io/images/homeruntech-logo-40x40@3x.png
   name: Homeruntech
