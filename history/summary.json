@@ -40,9 +40,9 @@
     "url": "https://id.homerun.co.cz/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-cz-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "99.74%",
@@ -52,6 +52,7 @@
     "timeMonth": 1048,
     "timeYear": 859,
     "dailyMinutesDown": {
+      "2025-10-07": 1,
       "2025-10-03": 23,
       "2025-10-01": 11,
       "2025-09-30": 10,
@@ -87,7 +88,7 @@
       "2025-04-06": 7,
       "2025-04-02": 96,
       "2025-04-01": 103,
-      "2025-03-31": 55
+      "2025-03-31": 44
     }
   },
   {
@@ -95,9 +96,9 @@
     "url": "https://homerun.co.cz",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-cz-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "99.75%",
@@ -107,6 +108,7 @@
     "timeMonth": 740,
     "timeYear": 853,
     "dailyMinutesDown": {
+      "2025-10-07": 0,
       "2025-10-03": 21,
       "2025-10-01": 11,
       "2025-09-29": 136,
@@ -139,8 +141,7 @@
       "2025-04-06": 7,
       "2025-04-02": 93,
       "2025-04-01": 103,
-      "2025-03-31": 176,
-      "2025-03-28": 9
+      "2025-03-31": 176
     }
   },
   {
