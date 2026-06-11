@@ -1,7 +1,7 @@
 url: https://collector-snowplow.armut.com/health
 status: down
 code: 503
-responseTime: 362
-lastUpdated: 2026-06-10T23:35:36.254Z
+responseTime: 279
+lastUpdated: 2026-06-11T23:35:55.923Z
 startTime: 2024-06-25T10:01:18.469Z
 generator: Upptime <https://github.com/upptime/upptime>
