@@ -1,7 +1,7 @@
 url: https://id.armut.com/health_check
-status: up
-code: 200
-responseTime: 518
-lastUpdated: 2026-08-18T04:37:51.874Z
+status: down
+code: 403
+responseTime: 504
+lastUpdated: 2026-08-18T06:23:00.463Z
 startTime: 2024-05-30T13:32:43.614Z
 generator: Upptime <https://github.com/upptime/upptime>
