@@ -1,7 +1,7 @@
 url: https://homerun.ro
-status: up
-code: 200
-responseTime: 337
-lastUpdated: 2026-08-25T23:08:21.872Z
+status: down
+code: 403
+responseTime: 142
+lastUpdated: 2026-08-25T23:48:18.544Z
 startTime: 2024-05-30T13:33:12.505Z
 generator: Upptime <https://github.com/upptime/upptime>
