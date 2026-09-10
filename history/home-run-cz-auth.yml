@@ -1,7 +1,7 @@
 url: https://id.homerun.co.cz/health_check
-status: down
-code: 403
-responseTime: 715
-lastUpdated: 2026-09-10T16:18:06.226Z
+status: up
+code: 200
+responseTime: 1843
+lastUpdated: 2026-09-10T16:29:02.979Z
 startTime: 2024-05-30T13:32:45.642Z
 generator: Upptime <https://github.com/upptime/upptime>
