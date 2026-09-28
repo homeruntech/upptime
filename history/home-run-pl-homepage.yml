@@ -1,7 +1,7 @@
 url: https://homerun.pl
-status: up
-code: 200
-responseTime: 1038
-lastUpdated: 2026-09-27T23:13:23.125Z
+status: down
+code: 403
+responseTime: 122
+lastUpdated: 2026-09-28T07:19:20.251Z
 startTime: 2024-05-30T13:33:10.259Z
 generator: Upptime <https://github.com/upptime/upptime>
