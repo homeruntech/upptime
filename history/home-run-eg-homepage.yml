@@ -1,7 +1,7 @@
 url: https://homerun.com.eg
-status: up
-code: 200
-responseTime: 110
-lastUpdated: 2026-10-03T23:52:37.972Z
+status: down
+code: 403
+responseTime: 175
+lastUpdated: 2026-10-04T02:29:18.089Z
 startTime: 2024-05-30T13:32:48.834Z
 generator: Upptime <https://github.com/upptime/upptime>
