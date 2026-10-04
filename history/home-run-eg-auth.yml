@@ -1,7 +1,7 @@
 url: https://id.homerun.com.eg/health_check
-status: down
-code: 403
-responseTime: 631
-lastUpdated: 2026-10-04T02:29:02.640Z
+status: up
+code: 200
+responseTime: 376
+lastUpdated: 2026-10-04T03:43:04.503Z
 startTime: 2024-05-30T13:32:47.948Z
 generator: Upptime <https://github.com/upptime/upptime>
