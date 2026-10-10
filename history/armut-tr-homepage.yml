@@ -1,7 +1,7 @@
 url: https://armut.com
-status: up
-code: 200
-responseTime: 211
-lastUpdated: 2026-10-09T23:14:16.552Z
+status: down
+code: 403
+responseTime: 99
+lastUpdated: 2026-10-10T20:13:47.388Z
 startTime: 2024-05-30T13:32:44.427Z
 generator: Upptime <https://github.com/upptime/upptime>
