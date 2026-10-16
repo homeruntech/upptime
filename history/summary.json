@@ -4,15 +4,15 @@
     "url": "https://id.armut.com/health_check",
     "icon": "https://cdn.armut.com/images/themes/armut/favicons/32x32.ico",
     "slug": "armut-tr-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "98.95%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "98.87%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.79%",
     "time": 463,
-    "timeDay": 435,
-    "timeWeek": 475,
+    "timeDay": 461,
+    "timeWeek": 478,
     "timeMonth": 464,
     "timeYear": 460,
     "dailyMinutesDown": {
@@ -56,7 +56,8 @@
       "2026-10-12": 13,
       "2026-10-13": 45,
       "2026-10-14": 10,
-      "2026-10-15": 10
+      "2026-10-15": 10,
+      "2026-10-16": 7
     }
   },
   {
@@ -64,16 +65,16 @@
     "url": "https://armut.com",
     "icon": "https://cdn.armut.com/images/themes/armut/favicons/32x32.ico",
     "slug": "armut-tr-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "98.96%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.84%",
     "time": 152,
-    "timeDay": 130,
-    "timeWeek": 144,
-    "timeMonth": 128,
+    "timeDay": 180,
+    "timeWeek": 143,
+    "timeMonth": 129,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2026-08-08": 19,
@@ -112,7 +113,8 @@
       "2026-10-12": 13,
       "2026-10-13": 45,
       "2026-10-14": 10,
-      "2026-10-15": 10
+      "2026-10-15": 10,
+      "2026-10-16": 7
     }
   },
   {
@@ -120,17 +122,17 @@
     "url": "https://id.homerun.co.cz/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-cz-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "98.97%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "98.90%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.80%",
     "time": 805,
-    "timeDay": 849,
-    "timeWeek": 778,
-    "timeMonth": 820,
-    "timeYear": 780,
+    "timeDay": 410,
+    "timeWeek": 753,
+    "timeMonth": 817,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2025-12-10": 9,
       "2025-12-12": 7,
@@ -176,7 +178,8 @@
       "2026-10-12": 13,
       "2026-10-13": 45,
       "2026-10-14": 9,
-      "2026-10-15": 9
+      "2026-10-15": 9,
+      "2026-10-16": 7
     }
   },
   {
@@ -184,17 +187,17 @@
     "url": "https://homerun.co.cz",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-cz-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "98.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.84%",
-    "time": 489,
-    "timeDay": 430,
-    "timeWeek": 479,
-    "timeMonth": 517,
-    "timeYear": 451,
+    "time": 488,
+    "timeDay": 99,
+    "timeWeek": 450,
+    "timeMonth": 518,
+    "timeYear": 450,
     "dailyMinutesDown": {
       "2025-12-10": 8,
       "2025-12-12": 7,
@@ -235,7 +238,8 @@
       "2026-10-12": 12,
       "2026-10-13": 45,
       "2026-10-14": 9,
-      "2026-10-15": 9
+      "2026-10-15": 9,
+      "2026-10-16": 7
     }
   },
   {
@@ -243,16 +247,16 @@
     "url": "https://id.homerun.com.eg/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-eg-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.82%",
     "time": 508,
-    "timeDay": 395,
-    "timeWeek": 529,
-    "timeMonth": 508,
+    "timeDay": 506,
+    "timeWeek": 510,
+    "timeMonth": 509,
     "timeYear": 502,
     "dailyMinutesDown": {
       "2026-03-05": 35,
@@ -294,7 +298,8 @@
       "2026-10-12": 12,
       "2026-10-13": 45,
       "2026-10-14": 9,
-      "2026-10-15": 9
+      "2026-10-15": 9,
+      "2026-10-16": 7
     }
   },
   {
@@ -302,17 +307,17 @@
     "url": "https://homerun.com.eg",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-eg-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.85%",
     "time": 200,
-    "timeDay": 135,
-    "timeWeek": 159,
+    "timeDay": 99,
+    "timeWeek": 156,
     "timeMonth": 169,
-    "timeYear": 187,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2026-08-08": 18,
       "2026-08-17": 14,
@@ -350,7 +355,8 @@
       "2026-10-12": 12,
       "2026-10-13": 43,
       "2026-10-14": 9,
-      "2026-10-15": 9
+      "2026-10-15": 9,
+      "2026-10-16": 6
     }
   },
   {
@@ -358,17 +364,17 @@
     "url": "https://id.homerun.co.hu/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-hu-auth",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.14%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "99.82%",
-    "time": 569,
-    "timeDay": 514,
-    "timeWeek": 541,
-    "timeMonth": 561,
-    "timeYear": 556,
+    "time": 568,
+    "timeDay": 417,
+    "timeWeek": 537,
+    "timeMonth": 554,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2026-03-05": 35,
       "2026-06-27": 52,
@@ -409,7 +415,8 @@
       "2026-10-12": 12,
       "2026-10-13": 43,
       "2026-10-14": 9,
-      "2026-10-15": 9
+      "2026-10-15": 9,
+      "2026-10-16": 6
     }
   },
   {
@@ -417,16 +424,16 @@
     "url": "https://homerun.co.hu",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-hu-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "99.85%",
     "time": 232,
-    "timeDay": 157,
-    "timeWeek": 197,
-    "timeMonth": 191,
+    "timeDay": 98,
+    "timeWeek": 190,
+    "timeMonth": 187,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2026-08-08": 17,
@@ -465,7 +472,8 @@
       "2026-10-12": 12,
       "2026-10-13": 43,
       "2026-10-14": 8,
-      "2026-10-15": 8
+      "2026-10-15": 8,
+      "2026-10-16": 6
     }
   },
   {
@@ -473,16 +481,16 @@
     "url": "https://id.homerun.pl/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-pl-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.83%",
     "time": 501,
-    "timeDay": 439,
-    "timeWeek": 471,
-    "timeMonth": 456,
+    "timeDay": 460,
+    "timeWeek": 467,
+    "timeMonth": 458,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2026-03-05": 35,
@@ -524,7 +532,8 @@
       "2026-10-12": 11,
       "2026-10-13": 43,
       "2026-10-14": 8,
-      "2026-10-15": 8
+      "2026-10-15": 8,
+      "2026-10-16": 6
     }
   },
   {
@@ -532,16 +541,16 @@
     "url": "https://homerun.pl",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-pl-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.86%",
-    "time": 191,
-    "timeDay": 211,
-    "timeWeek": 336,
-    "timeMonth": 208,
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.85%",
+    "time": 190,
+    "timeDay": 159,
+    "timeWeek": 333,
+    "timeMonth": 210,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2026-08-08": 17,
@@ -580,7 +589,8 @@
       "2026-10-12": 11,
       "2026-10-13": 43,
       "2026-10-14": 8,
-      "2026-10-15": 8
+      "2026-10-15": 8,
+      "2026-10-16": 6
     }
   },
   {
@@ -588,16 +598,16 @@
     "url": "https://id.homerun.ro/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-ro-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "99.83%",
     "time": 554,
-    "timeDay": 479,
-    "timeWeek": 523,
-    "timeMonth": 519,
+    "timeDay": 410,
+    "timeWeek": 519,
+    "timeMonth": 514,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2026-03-05": 35,
@@ -639,7 +649,8 @@
       "2026-10-12": 11,
       "2026-10-13": 41,
       "2026-10-14": 8,
-      "2026-10-15": 8
+      "2026-10-15": 8,
+      "2026-10-16": 5
     }
   },
   {
@@ -647,16 +658,16 @@
     "url": "https://homerun.ro",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-ro-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.86%",
     "time": 233,
-    "timeDay": 165,
-    "timeWeek": 190,
-    "timeMonth": 186,
+    "timeDay": 150,
+    "timeWeek": 187,
+    "timeMonth": 189,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2026-08-08": 16,
@@ -695,7 +706,8 @@
       "2026-10-12": 11,
       "2026-10-13": 41,
       "2026-10-14": 8,
-      "2026-10-15": 8
+      "2026-10-15": 8,
+      "2026-10-16": 5
     }
   },
   {
@@ -703,17 +715,17 @@
     "url": "https://id.homerun.com.sa/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-sa-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.11%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.07%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.84%",
-    "time": 607,
-    "timeDay": 466,
-    "timeWeek": 609,
-    "timeMonth": 581,
-    "timeYear": 604,
+    "time": 608,
+    "timeDay": 1087,
+    "timeWeek": 608,
+    "timeMonth": 585,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2026-03-05": 35,
       "2026-06-27": 37,
@@ -754,7 +766,8 @@
       "2026-10-12": 11,
       "2026-10-13": 41,
       "2026-10-14": 7,
-      "2026-10-15": 7
+      "2026-10-15": 7,
+      "2026-10-16": 5
     }
   },
   {
@@ -762,17 +775,17 @@
     "url": "https://homerun.com.sa",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-sa-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.13%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.08%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.86%",
-    "time": 275,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 270,
-    "timeYear": 270,
+    "time": 274,
+    "timeDay": 101,
+    "timeWeek": 187,
+    "timeMonth": 267,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2026-04-01": 29,
       "2026-08-08": 16,
@@ -811,7 +824,8 @@
       "2026-10-12": 10,
       "2026-10-13": 41,
       "2026-10-14": 7,
-      "2026-10-15": 7
+      "2026-10-15": 7,
+      "2026-10-16": 5
     }
   },
   {
@@ -819,17 +833,17 @@
     "url": "https://id.homerun.co.uk/health_check",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-uk-auth",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.14%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "99.22%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.84%",
     "time": 498,
-    "timeDay": 398,
-    "timeWeek": 446,
+    "timeDay": 486,
+    "timeWeek": 449,
     "timeMonth": 460,
-    "timeYear": 498,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2026-03-05": 35,
       "2026-06-27": 32,
@@ -870,7 +884,8 @@
       "2026-10-12": 10,
       "2026-10-13": 40,
       "2026-10-14": 7,
-      "2026-10-15": 7
+      "2026-10-15": 7,
+      "2026-10-16": 5
     }
   },
   {
@@ -878,16 +893,16 @@
     "url": "https://homerun.co.uk",
     "icon": "https://cdn.armut.com/images/themes/homerun/favicons/32x32.ico",
     "slug": "home-run-uk-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.16%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.87%",
-    "time": 180,
-    "timeDay": 112,
-    "timeWeek": 123,
-    "timeMonth": 108,
+    "time": 179,
+    "timeDay": 131,
+    "timeWeek": 115,
+    "timeMonth": 109,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2026-08-08": 16,
@@ -926,7 +941,8 @@
       "2026-10-12": 10,
       "2026-10-13": 39,
       "2026-10-14": 7,
-      "2026-10-15": 7
+      "2026-10-15": 7,
+      "2026-10-16": 4
     }
   },
   {
@@ -934,16 +950,16 @@
     "url": "https://id.prontopro.at/health_check",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
     "slug": "pronto-pro-at-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.17%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.13%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.85%",
     "time": 561,
-    "timeDay": 497,
-    "timeWeek": 517,
-    "timeMonth": 558,
+    "timeDay": 406,
+    "timeWeek": 513,
+    "timeMonth": 554,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2026-03-05": 35,
@@ -985,7 +1001,8 @@
       "2026-10-12": 10,
       "2026-10-13": 39,
       "2026-10-14": 7,
-      "2026-10-15": 6
+      "2026-10-15": 6,
+      "2026-10-16": 4
     }
   },
   {
@@ -993,16 +1010,16 @@
     "url": "https://prontopro.at",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
     "slug": "pronto-pro-at-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.19%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.87%",
-    "time": 227,
-    "timeDay": 189,
-    "timeWeek": 305,
-    "timeMonth": 225,
+    "time": 226,
+    "timeDay": 180,
+    "timeWeek": 301,
+    "timeMonth": 228,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2026-08-08": 15,
@@ -1041,7 +1058,8 @@
       "2026-10-12": 10,
       "2026-10-13": 39,
       "2026-10-14": 7,
-      "2026-10-15": 6
+      "2026-10-15": 6,
+      "2026-10-16": 4
     }
   },
   {
@@ -1049,16 +1067,16 @@
     "url": "https://id.prontopro.ch/health_check",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
     "slug": "pronto-pro-ch-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.20%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.16%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.86%",
     "time": 507,
-    "timeDay": 560,
-    "timeWeek": 517,
-    "timeMonth": 509,
+    "timeDay": 410,
+    "timeWeek": 509,
+    "timeMonth": 505,
     "timeYear": 507,
     "dailyMinutesDown": {
       "2026-03-05": 35,
@@ -1100,7 +1118,8 @@
       "2026-10-12": 9,
       "2026-10-13": 39,
       "2026-10-14": 6,
-      "2026-10-15": 6
+      "2026-10-15": 6,
+      "2026-10-16": 4
     }
   },
   {
@@ -1108,16 +1127,16 @@
     "url": "https://prontopro.ch",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
     "slug": "pronto-pro-ch-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.21%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.18%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.87%",
-    "time": 191,
-    "timeDay": 172,
-    "timeWeek": 158,
-    "timeMonth": 169,
+    "time": 190,
+    "timeDay": 106,
+    "timeWeek": 150,
+    "timeMonth": 171,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2026-08-08": 15,
@@ -1156,7 +1175,8 @@
       "2026-10-12": 9,
       "2026-10-13": 37,
       "2026-10-14": 6,
-      "2026-10-15": 6
+      "2026-10-15": 6,
+      "2026-10-16": 4
     }
   },
   {
@@ -1164,15 +1184,15 @@
     "url": "https://id.prontopro.de/health_check",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
     "slug": "pronto-pro-de-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.23%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.19%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.86%",
-    "time": 510,
-    "timeDay": 468,
-    "timeWeek": 490,
+    "time": 509,
+    "timeDay": 407,
+    "timeWeek": 487,
     "timeMonth": 496,
     "timeYear": 506,
     "dailyMinutesDown": {
@@ -1215,7 +1235,8 @@
       "2026-10-12": 9,
       "2026-10-13": 37,
       "2026-10-14": 6,
-      "2026-10-15": 6
+      "2026-10-15": 6,
+      "2026-10-16": 3
     }
   },
   {
@@ -1223,16 +1244,16 @@
     "url": "https://prontopro.de",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
     "slug": "pronto-pro-de-homepage",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.24%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.88%",
-    "time": 186,
-    "timeDay": 137,
-    "timeWeek": 149,
-    "timeMonth": 163,
+    "time": 185,
+    "timeDay": 100,
+    "timeWeek": 142,
+    "timeMonth": 158,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2026-08-08": 14,
@@ -1271,7 +1292,8 @@
       "2026-10-12": 9,
       "2026-10-13": 37,
       "2026-10-14": 6,
-      "2026-10-15": 5
+      "2026-10-15": 5,
+      "2026-10-16": 3
     }
   },
   {
@@ -1279,16 +1301,16 @@
     "url": "https://id.prontopro.es/health_check",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
     "slug": "pronto-pro-es-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.26%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.23%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.87%",
     "time": 455,
-    "timeDay": 414,
-    "timeWeek": 603,
-    "timeMonth": 482,
+    "timeDay": 420,
+    "timeWeek": 604,
+    "timeMonth": 485,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2026-03-05": 35,
@@ -1330,7 +1352,8 @@
       "2026-10-12": 8,
       "2026-10-13": 37,
       "2026-10-14": 6,
-      "2026-10-15": 5
+      "2026-10-15": 5,
+      "2026-10-16": 3
     }
   },
   {
@@ -1338,16 +1361,16 @@
     "url": "https://prontopro.es",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
     "slug": "pronto-pro-es-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.88%",
     "time": 120,
-    "timeDay": 98,
-    "timeWeek": 106,
-    "timeMonth": 104,
+    "timeDay": 152,
+    "timeWeek": 105,
+    "timeMonth": 103,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2026-08-08": 14,
@@ -1386,7 +1409,8 @@
       "2026-10-12": 8,
       "2026-10-13": 37,
       "2026-10-14": 5,
-      "2026-10-15": 5
+      "2026-10-15": 5,
+      "2026-10-16": 3
     }
   },
   {
@@ -1394,16 +1418,16 @@
     "url": "https://id.prontopro.fr/health_check",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
     "slug": "pronto-pro-fr-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.31%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.87%",
     "time": 494,
-    "timeDay": 391,
-    "timeWeek": 455,
-    "timeMonth": 458,
+    "timeDay": 417,
+    "timeWeek": 450,
+    "timeMonth": 457,
     "timeYear": 479,
     "dailyMinutesDown": {
       "2026-03-05": 35,
@@ -1445,7 +1469,8 @@
       "2026-10-12": 8,
       "2026-10-13": 35,
       "2026-10-14": 5,
-      "2026-10-15": 5
+      "2026-10-15": 5,
+      "2026-10-16": 3
     }
   },
   {
@@ -1453,16 +1478,16 @@
     "url": "https://prontopro.fr",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
     "slug": "pronto-pro-fr-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.77%",
     "time": 178,
-    "timeDay": 160,
-    "timeWeek": 140,
-    "timeMonth": 136,
+    "timeDay": 150,
+    "timeWeek": 137,
+    "timeMonth": 137,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2026-08-08": 13,
@@ -1501,7 +1526,8 @@
       "2026-10-12": 8,
       "2026-10-13": 35,
       "2026-10-14": 5,
-      "2026-10-15": 5
+      "2026-10-15": 5,
+      "2026-10-16": 2
     }
   },
   {
@@ -1509,16 +1535,16 @@
     "url": "https://id.prontopro.it/health_check",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
     "slug": "pronto-pro-it-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.33%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "99.88%",
     "time": 576,
-    "timeDay": 439,
-    "timeWeek": 512,
-    "timeMonth": 521,
+    "timeDay": 459,
+    "timeWeek": 511,
+    "timeMonth": 519,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2026-03-05": 35,
@@ -1559,7 +1585,8 @@
       "2026-10-12": 8,
       "2026-10-13": 35,
       "2026-10-14": 5,
-      "2026-10-15": 4
+      "2026-10-15": 4,
+      "2026-10-16": 2
     }
   },
   {
@@ -1567,17 +1594,17 @@
     "url": "https://prontopro.it",
     "icon": "https://cdn.armut.com/images/themes/prontopro/favicons/32x32.ico",
     "slug": "pronto-pro-it-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.89%",
-    "time": 245,
-    "timeDay": 236,
-    "timeWeek": 182,
-    "timeMonth": 188,
-    "timeYear": 237,
+    "time": 244,
+    "timeDay": 98,
+    "timeWeek": 175,
+    "timeMonth": 186,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2026-08-08": 13,
       "2026-08-17": 10,
@@ -1615,7 +1642,8 @@
       "2026-10-12": 7,
       "2026-10-13": 35,
       "2026-10-14": 5,
-      "2026-10-15": 4
+      "2026-10-15": 4,
+      "2026-10-16": 2
     }
   },
   {
@@ -1624,15 +1652,15 @@
     "icon": "https://global.discourse-cdn.com/business6/uploads/snowplowanalytics/original/2X/2/23680ab69016f7c26f3412b2af660f456c233347.jpeg",
     "slug": "snowplow-collector-global",
     "status": "down",
-    "uptime": "94.17%",
+    "uptime": "94.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.55%",
     "time": 524,
-    "timeDay": 305,
-    "timeWeek": 375,
-    "timeMonth": 409,
+    "timeDay": 496,
+    "timeWeek": 387,
+    "timeMonth": 414,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2026-06-23": 776,
