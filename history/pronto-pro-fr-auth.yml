@@ -1,7 +1,7 @@
 url: https://id.prontopro.fr/health_check
-status: down
-code: 403
-responseTime: 473
-lastUpdated: 2026-11-15T17:24:03.748Z
+status: up
+code: 200
+responseTime: 451
+lastUpdated: 2026-11-15T17:29:00.792Z
 startTime: 2024-05-30T13:33:25.861Z
 generator: Upptime <https://github.com/upptime/upptime>
